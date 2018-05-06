@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.dan.features.search.LoginSearchSelectRandomTest" skipped="0" tests="1" time="0.0" timestamp="2018-03-29T15:30:41.443344900+03:00[Europe/Athens]"><testcase classname="com.dan.features.search.LoginSearchSelectRandomTest" name="Initialisation"><error message="java.lang.NullPointerException--&gt;null" type="net.sf.cglib.core.CodeGenerationException">java.lang.NullPointerException--&gt;null</error><system-err>java.lang.NullPointerException--&gt;null&#13;
+</system-err></testcase></testsuite>

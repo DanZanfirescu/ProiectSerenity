@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--[if IE 7]>
+<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">
+<![endif]--><!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script><link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">Demo Project using Serenity and JUnit</span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="b73ab2df35cd94b5317e6d6bfdb3d2310ff26862ef2f19989342051d05f64b83.html">Search</a></span>
+                > <span class="truncate-60"><a
+                    href="846b4347ab502ef67f245621c9c05c3ead163bb66e25f1f8d4ced54c694724ac.html">Login search select random </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 16-04-2018 18:39</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Search </span>
+                                    <span class="badge tag-badge">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                In order to understand a word that I don't know
+As a user
+I want to be able to look up the meaning of the word
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                            <p class="tag">
+                                <span class="badge tag-badge">
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" href="6f612e6076018b470a9225c2eeb8453b7566d0733f4f510b7fd39b8cab279282.html">Login Search Select Random Test
+                                    (story)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-check-square-o success-icon fa-2x' title='SUCCESS'></i></span>
+                            <span class="test-case-title">
+                                <span class="success-color">Login search select random
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="2c20a2d1ec3c2875959e38396400da58d16a90d04350870eecba6e94969d23bc.png" title="Do login: danzanf@yahoo.com, abc123" width="960"/>
+                <img src="95c7aa00136bd3fbff27e41e9ab312b16ef3d6991dff0e8dfdb0d6845e6aabfd.png" title="Do login: danzanf@yahoo.com, abc123" width="960"/>
+                <img src="2c20a2d1ec3c2875959e38396400da58d16a90d04350870eecba6e94969d23bc.png" title="Navigate to customer login page" width="960"/>
+                <img src="2baceafd5d75cee74ae7400b9db7f8f43fdd99dcbec4acea4d5bcac98b00a013.png" title="Navigate to customer login page" width="960"/>
+                <img src="2baceafd5d75cee74ae7400b9db7f8f43fdd99dcbec4acea4d5bcac98b00a013.png" title="Set credentials: danzanf@yahoo.com, abc123" width="960"/>
+                <img src="c4c8e83d701e23bd483f805ff17092831ba6f35134045830b09f4577341b32cd.png" title="Set credentials: danzanf@yahoo.com, abc123" width="960"/>
+                <img src="06a08bf1a786e01c5a1d0169bc1424adbd675a3a19037cf8441c3e6d9959742c.png" title="Click login" width="960"/>
+                <img src="b057439677e345f7987729a4bca7e944c62796b7e5c87bf53f29f273b990d59d.png" title="Click login" width="960"/>
+                <img src="95c7aa00136bd3fbff27e41e9ab312b16ef3d6991dff0e8dfdb0d6845e6aabfd.png" title="User is logged in" width="960"/>
+                <img src="141629feeb94fb50db03f271c5cccf6a43315092b1fdcbeb4a5ed6d78b51df99.png" title="Click on cookie accept button" width="960"/>
+                <img src="f08426fe57872af1ff0fff4476e58bf9fbe04f87c3bc5cc80249d5918aa791f9.png" title="Do search: aroma" width="960"/>
+                <img src="1c18b2a81441230234433fce2244a1eb387a1f3fcb301deb1c968d6332d1c78c.png" title="Set search word: aroma" width="960"/>
+                <img src="1c18b2a81441230234433fce2244a1eb387a1f3fcb301deb1c968d6332d1c78c.png" title="Click search button" width="960"/>
+                <img src="f08426fe57872af1ff0fff4476e58bf9fbe04f87c3bc5cc80249d5918aa791f9.png" title="Click search button" width="960"/>
+                <img src="f08426fe57872af1ff0fff4476e58bf9fbe04f87c3bc5cc80249d5918aa791f9.png" title="Search result is displayed" width="960"/>
+                <img src="f08426fe57872af1ff0fff4476e58bf9fbe04f87c3bc5cc80249d5918aa791f9.png" title="Total number of pages" width="960"/>
+                <img src="f08426fe57872af1ff0fff4476e58bf9fbe04f87c3bc5cc80249d5918aa791f9.png" title="Random page number" width="960"/>
+                <img src="276874fc6e865a9fcc6f8dda4b24fe3367b86b82afa92fcbc609dcc3c65adc62.png" title="Navigate to random page" width="960"/>
+                <img src="276874fc6e865a9fcc6f8dda4b24fe3367b86b82afa92fcbc609dcc3c65adc62.png" title="Check that is at least one product in stock on page" width="960"/>
+                <img src="276874fc6e865a9fcc6f8dda4b24fe3367b86b82afa92fcbc609dcc3c65adc62.png" title="Random product" width="960"/>
+                <img src="scaled_96a55a17d6fb4140b550bbba6eb65ebb7d0f07634a0a2a37336267ac88e9c9a5.png" title="Select and add to cart" width="960"/>
+                <img src="scaled_636ec0beb5e2c3187c0d2ccdcb977c5a3554894fef8335c721a11bc48f9dc2d9.png" title="Navigate to cart page" width="960"/>
+                <img src="scaled_938c7687635eef5fc87008754a32b4ec261e15cbdc2203137dc6071a863b3479.png" title="Navigate to cart page" width="960"/>
+                <img src="scaled_3a16cc40efd04d8921be7a16cb48ed6ccf20c31df95275081fd8f1b7aee4a552.png" title="Check cart page" width="960"/>
+                <img src="scaled_9783e1dcb604440596dc460dfb73f36d8cd9a262363ea9ac066d3444784ffc09.png" title="Check cart page" width="960"/>
+                <img src="9783e1dcb604440596dc460dfb73f36d8cd9a262363ea9ac066d3444784ffc09.png" title="Compare selected product with cart product" width="960"/>
+                <img src="3afae5f31354bfca54274f8c8885a7d0a3bc58e8a28759d31c1864ddfd0d486b.png" title="Empty cart before exit: <span class='success-color'>SUCCESS</span>" width="960"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 1.8.1</span>
+</div>
+</body>
+</html>

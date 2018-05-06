@@ -1,0 +1,1823 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
+        <script>
+    var require = {
+        "baseUrl": "https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US"
+    };
+</script>
+        <meta charset="utf-8" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+<meta name="format-detection" content="telephone=no" />
+<title>Search results for: 'aroma'</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/calendar.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/styles-m.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/styles-l.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/bootstrap-theme.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/font-awesome.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/material-design-iconic-font.min.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/animate.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/magic.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Swatches/css/swatches.css" />
+<link rel="stylesheet" type="text/css" media="print" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/print.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/css/owl.carousel.css" />
+<link rel="icon" type="image/x-icon" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Theme/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Theme/favicon.ico" />
+<script type="text/javascript" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/requirejs/require.js"></script>
+<script type="text/javascript" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/requirejs/mixins.js"></script>
+<script type="text/javascript" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/requirejs-config.js"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Khula:300,400,600,700" />
+            <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.mobile.custom" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/jquery/jquery.mobile.custom.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/dataPost" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/dataPost.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/bootstrap" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/jquery.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/translate-inline" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/translate-inline.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Theme/js/responsive" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Theme/js/responsive.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Theme/js/theme" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Theme/js/theme.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/translate" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/translate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.cookie" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/jquery/jquery.cookie.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/apply/main" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/apply/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bootstrap" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/template" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/template.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/modal/confirm" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/modal/confirm.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/smart-keyboard-handler" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/smart-keyboard-handler.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/mage" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/mage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/ie-class-fixer" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/ie-class-fixer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="domReady" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/requirejs/domReady.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/tabs" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/tabs.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="matchMedia" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/matchMedia.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="underscore" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/underscore.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/knockoutjs/knockout.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-es5" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/knockoutjs/knockout-es5.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/modal/modal" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/modal/modal.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/collapsible" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/collapsible.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/apply/scripts" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/apply/scripts.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/engine" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/template/engine.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/bootstrap" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/extender/observable_array" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/extender/observable_array.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/extender/bound-nodes" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/extender/bound-nodes.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="text" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/requirejs/text.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/key-codes" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/key-codes.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/common" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-migrate" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/jquery/jquery-migrate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="owlcarousel/minjs" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Plazathemes_Loadjs/js/owl-carousel/owl.carousel.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/jquery/jquery-ui.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-storageapi" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/jquery/jquery.storageapi.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-repeat" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/knockoutjs/knockout-repeat.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-fast-foreach" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/knockoutjs/knockout-fast-foreach.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/wrapper" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/utils/wrapper.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/events" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/core/events.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="es6-collections" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/es6-collections.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/observable_source" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/template/observable_source.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/renderer" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/template/renderer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/console-logger" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/logger/console-logger.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/resizable" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/resizable.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/i18n" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/i18n.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/scope" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/scope.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/range" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/range.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/mage-init" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/mage-init.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/keyboard" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/keyboard.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/optgroup" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/optgroup.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/after-render" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/after-render.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/autoselect" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/autoselect.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/datepicker" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/datepicker.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/outer_click" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/outer_click.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/fadeVisible" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/fadeVisible.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/collapsible" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/collapsible.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/staticChecked" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/staticChecked.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/simple-checked" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/simple-checked.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/bind-html" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/bind-html.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/tooltip" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/bindings/tooltip.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/class" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/core/class.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/view/utils/async" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/view/utils/async.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/registry/registry" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/registry/registry.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/loader" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/knockout/template/loader.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/storage/local" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/core/storage/local.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/main" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/utils/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/calendar" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/calendar.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/logger" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/logger/logger.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/entry-factory" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/logger/entry-factory.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/console-output-handler" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/logger/console-output-handler.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/formatter" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/logger/formatter.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/message-pool" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/logger/message-pool.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/levels-pool" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/logger/levels-pool.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/logger-utils" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/logger/logger-utils.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="moment" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/moment.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/view/utils/dom-observer" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/view/utils/dom-observer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-ui-timepicker-addon" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/jquery/jquery-ui-timepicker-addon.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/view/utils/bindings" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/view/utils/bindings.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/template" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/utils/template.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/arrays" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/utils/arrays.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/compare" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/utils/compare.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/misc" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/utils/misc.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/objects" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/utils/objects.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/strings" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/utils/strings.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/entry" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/logger/entry.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="FormData" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/FormData.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="MutationObserver" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/MutationObserver.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/loader" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/loader.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_PageCache/js/page-cache" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_PageCache/js/page-cache.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Cookie/js/notices" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Cookie/js/notices.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Search/form-mini" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Search/form-mini.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/core/app" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/core/app.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/dropdown" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/dropdown.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Catalog/js/product/list/toolbar" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Catalog/js/product/list/toolbar.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Catalog/js/catalog-add-to-cart" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Catalog/js/catalog-add-to-cart.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/accordion" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/accordion.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/validation/validation" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/validation/validation.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/cookies" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/cookies.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/block-loader" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/block-loader.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Customer/js/section-config" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Customer/js/section-config.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Customer/js/customer-data" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Customer/js/customer-data.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Customer/js/invalidation-processor" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Customer/js/invalidation-processor.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/validation" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/validation.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/storage" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/storage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/element/element" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/core/element/element.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/core/renderer/types" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/core/renderer/types.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/core/renderer/layout" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/core/renderer/layout.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/url" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/url.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/validate" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/jquery/jquery.validate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/element/links" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/core/element/links.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Checkout/js/view/minicart" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Checkout/js/view/minicart.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/collection" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/core/collection.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Tax/js/view/checkout/minicart/subtotal/totals" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Tax/js/view/checkout/minicart/subtotal/totals.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Msrp/js/view/checkout/minicart/subtotal/totals" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Msrp/js/view/checkout/minicart/subtotal/totals.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Catalog/js/view/image" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Catalog/js/view/image.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Customer/js/view/authentication-popup" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Customer/js/view/authentication-popup.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/view/messages" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/view/messages.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Captcha/js/view/checkout/loginCaptcha" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Captcha/js/view/checkout/loginCaptcha.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.metadata" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/jquery/jquery.metadata.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Theme/js/view/messages" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Theme/js/view/messages.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Catalog/js/storage-manager" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Catalog/js/storage-manager.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Checkout/js/sidebar" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Checkout/js/sidebar.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/form" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/form/form.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Customer/js/action/login" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Customer/js/action/login.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Customer/js/model/authentication-popup" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Customer/js/model/authentication-popup.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/modal/alert" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/modal/alert.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Captcha/js/view/checkout/defaultCaptcha" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Captcha/js/view/checkout/defaultCaptcha.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Captcha/js/model/captchaList" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Captcha/js/model/captchaList.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Catalog/js/product/storage/storage-service" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Catalog/js/product/storage/storage-service.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Customer/js/invalidation-rules/website-rule" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Customer/js/invalidation-rules/website-rule.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/model/messageList" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/model/messageList.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/decorate" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/decorate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/spinner" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/lib/spinner.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/requirejs/resolver" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/mage/requirejs/resolver.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Captcha/js/model/captcha" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Captcha/js/model/captcha.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Catalog/js/product/storage/ids-storage" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Catalog/js/product/storage/ids-storage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Catalog/js/product/storage/data-storage" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Catalog/js/product/storage/data-storage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Catalog/js/product/storage/ids-storage-compare" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Catalog/js/product/storage/ids-storage-compare.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/adapter" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/form/adapter.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Captcha/js/action/refresh" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Captcha/js/action/refresh.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Catalog/js/product/query-builder" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Catalog/js/product/query-builder.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/model/messages" src="https://substitute.ro/pub/static/frontend/alexa/alexa_home2/en_US/Magento_Ui/js/model/messages.js"></script></head>
+    <body data-container="body" class="page-products catalogsearch-result-index page-layout-2columns-left">
+        
+<script>
+    try {
+        if (!window.localStorage || !window.sessionStorage) {
+            throw new Error();
+        }
+
+        localStorage.setItem('storage_test', 1);
+        localStorage.removeItem('storage_test');
+    } catch(e) {
+        (function () {
+            var Storage = function (type) {
+                var data;
+
+                function createCookie(name, value, days) {
+                    var date, expires;
+
+                    if (days) {
+                        date = new Date();
+                        date.setTime(date.getTime()+(days * 24 * 60 * 60 * 1000));
+                        expires = '; expires=' + date.toGMTString();
+                    } else {
+                        expires = '';
+                    }
+                    document.cookie = name + '=' + value+expires+'; path=/';
+                }
+
+                function readCookie(name) {
+                    var nameEQ = name + '=',
+                        ca = document.cookie.split(';'),
+                        i = 0,
+                        c;
+
+                    for (i=0; i &lt; ca.length; i++) {
+                        c = ca[i];
+
+                        while (c.charAt(0) === ' ') {
+                            c = c.substring(1,c.length);
+                        }
+
+                        if (c.indexOf(nameEQ) === 0) {
+                            return c.substring(nameEQ.length, c.length);
+                        }
+                    }
+
+                    return null;
+                }
+
+                function setData(data) {
+                    data = encodeURIComponent(JSON.stringify(data));
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', data, 365);
+                }
+
+                function clearData() {
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', '', 365);
+                }
+
+                function getData() {
+                    var data = type === 'session' ? readCookie(getSessionName()) : readCookie('localStorage');
+
+                    return data ? JSON.parse(decodeURIComponent(data)) : {};
+                }
+
+                function getSessionName() {
+                    if (!window.name) {
+                        window.name = new Date().getTime();
+                    }
+
+                    return 'sessionStorage' + window.name;
+                }
+
+                data = getData();
+
+                return {
+                    length: 0,
+                    clear: function () {
+                        data = {};
+                        this.length = 0;
+                        clearData();
+                    },
+
+                    getItem: function (key) {
+                        return data[key] === undefined ? null : data[key];
+                    },
+
+                    key: function (i) {
+                        var ctr = 0,
+                            k;
+
+                        for (k in data) {
+                            if (ctr.toString() === i.toString()) {
+                                return k;
+                            } else {
+                                ctr++
+                            }
+                        }
+
+                        return null;
+                    },
+
+                    removeItem: function (key) {
+                        delete data[key];
+                        this.length--;
+                        setData(data);
+                    },
+
+                    setItem: function (key, value) {
+                        data[key] = value.toString();
+                        this.length++;
+                        setData(data);
+                    }
+                };
+            };
+
+            window.localStorage.__proto__ = window.localStorage = new Storage('local');
+            window.sessionStorage.__proto__ = window.sessionStorag = new Storage('session');
+        })();
+    }
+</script>
+    <script>
+        require.config({
+            deps: [
+                'jquery',
+                'mage/translate',
+                'jquery/jquery-storageapi'
+            ],
+            callback: function ($) {
+                'use strict';
+
+                var dependencies = [],
+                    versionObj;
+
+                $.initNamespaceStorage('mage-translation-storage');
+                $.initNamespaceStorage('mage-translation-file-version');
+                versionObj = $.localStorage.get('mage-translation-file-version');
+
+                
+                if (versionObj.version !== 'd2b9f96727749d979cbb7a265d37d4db565a649f') {
+                    dependencies.push(
+                        'text!js-translation.json'
+                    );
+
+                }
+
+                require.config({
+                    deps: dependencies,
+                    callback: function (string) {
+                        if (typeof string === 'string') {
+                            $.mage.translate.add(JSON.parse(string));
+                            $.localStorage.set('mage-translation-storage', string);
+                            $.localStorage.set(
+                                'mage-translation-file-version',
+                                {
+                                    version: 'd2b9f96727749d979cbb7a265d37d4db565a649f'
+                                }
+                            );
+                        } else {
+                            $.mage.translate.add($.localStorage.get('mage-translation-storage'));
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+
+
+    <noscript>
+        &lt;div class="message global noscript"&gt;
+            &lt;div class="content"&gt;
+                &lt;p&gt;
+                    &lt;strong&gt;JavaScript seems to be disabled in your browser.&lt;/strong&gt;
+                    &lt;span&gt;For the best experience on our site, be sure to turn on Javascript in your browser.&lt;/span&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    </noscript>
+    <div class="notice global site local_storage" style="display: none;">
+        <div class="content">
+            <p>
+                <strong>Local Storage seems to be disabled in your browser.</strong><br />
+                For the best experience on our site, be sure to turn on Local Storage in your browser.            </p>
+        </div>
+    </div>
+    <script>
+require(['jquery'], function(jQuery){
+
+        // &lt;![CDATA[
+        (function($) {
+            var test = 'test';
+            try {
+                localStorage.setItem(test, test);
+                localStorage.removeItem(test);
+            } catch(e) {
+                $(".notice.global.site.local_storage").show();
+            }
+        })(jQuery);
+        // ]]&gt;
+
+});
+</script>
+    <div role="alertdialog" tabindex="-1" class="message global cookie" id="notice-cookie-block" style="display: none;">
+        <div role="document" class="content" tabindex="0">
+            <p>
+                <strong>Acest site foloseste cookies. </strong>
+                <span>Continuarea navigarii implica acceptarea lor.</span>
+                <a href="http://substitute.ro/cookies">Mai multe despre cookies</a>.            </p>
+            <div class="actions">
+                <button id="btn-cookie-allow" class="action allow primary">
+                    <span>Sunt de acord!</span>
+                </button>
+            </div>
+        </div>
+    </div>
+    
+<div class="page-wrapper"><header class="header-container">
+		<div class="top-bar visible-lg visible-md">
+			<div class="container-inner">
+				<div class="row">
+					<div class="col-sm-6 h-left">
+												<p><i class="fa fa-automobile"></i>Comanda de minimum 99 lei pentru a beneficia de transport gratuit!</p>					</div>
+					<div class="col-sm-6 h-right">
+						<div class="clearfix">
+							<div class="my-acount">
+								<strong class="label"><span>Contul meu<i class="fa fa-caret-down"> </i></span></strong>
+								<ul class="header links"><li><a href="https://substitute.ro/customer/account/">Contul meu</a></li><li class="authorization-link" data-label="or">
+    <a href="https://substitute.ro/customer/account/logout/" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/customer\/account\/logout\/&quot;,&quot;data&quot;:{&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}">
+        Sign Out    </a>
+</li>
+</ul>							</div>
+							
+													</div>
+						<ul class="link-follow">
+<li class="first"><a class="twitter fa fa-twitter" title="Twitter" href="http://twitter.com/ePotionSibiu"><span>twitter</span></a></li>
+<li><a class="facebook fa fa-facebook" title="Facebook" href="https://www.facebook.com/substitutesibiu"><span>facebook</span></a></li>
+<li><a class="instagram fa fa-instagram" title="Instagram" href="https://www.instagram.com/substitute_sibiu/"><span>youtube </span></a></li>
+</ul>					</div>		
+				</div>
+			</div>
+		</div>
+		<div class="header-content">
+			<div class="container-inner">
+				<div class="row">
+					<div class="col-md-3 col-sm-3">						
+						<div class="logo-home"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+    <a class="logo" href="https://substitute.ro/" title="">
+        <img src="https://substitute.ro/pub/media/logo/stores/1/logo-epotion1.png" alt="" width="100" height="50" />
+    </a>
+</div>					
+					</div>					
+					<div class="col-md-9 col-sm-9">
+						
+	<form class="form minisearch" id="search_mini_form" action="https://substitute.ro/catalogsearch/result/" method="get">
+		<div class="field search">
+			<input id="search" type="text" name="q" value="aroma" placeholder="Cauta ceva..." class="input-text" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off" />
+
+			
+			<button type="submit" title="Search" class="action fa fa-search" disabled="">
+				<span></span>
+			</button>
+		</div>
+		
+	</form>
+						<div class="contact-link">
+<div class="shop-phone">
+<div class="m_6176169395270718794gmail-shop-phone"><strong>Telefon: <a href="tel:0767%20116%20427" target="_blank">0767116427</a></strong></div>
+<div class="m_6176169395270718794gmail-shop-email"><strong>E-mail: <a href="mailto:office@substitute.ro" target="_blank">office@substitute.ro</a></strong></div>
+</div>
+</div>					</div>
+				</div>
+			</div>
+		</div>
+		<div class="nav-ozmegamenu">
+			<div class="container-inner">
+				<div class="container-size">
+					
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart" href="https://substitute.ro/checkout/cart/" data-bind="scope: 'minicart_content'">
+        <span class="text">Cosul meu</span>
+        <span class="counter qty empty" data-bind="css: { empty: !!getCartParam('summary_count') == false }, blockLoader: isLoading">
+            <span class="counter-number"><!-- ko text: getCartParam('summary_count') -->0<!-- /ko --></span>
+            <span class="counter-label">
+            <!-- ko if: getCartParam('summary_count') --><!-- /ko -->
+            </span>
+        </span>
+    </a>
+            
+        <script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/substitute.ro\/checkout\/cart\/","checkoutUrl":"https:\/\/substitute.ro\/checkout\/","updateItemQtyUrl":"https:\/\/substitute.ro\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/substitute.ro\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/substitute.ro\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"customerLoginUrl":"https:\/\/substitute.ro\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/substitute.ro\/captcha\/refresh\/","isRequired":false},"guest_checkout":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/substitute.ro\/captcha\/refresh\/","isRequired":false}}};
+    </script>
+    
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front mage-dropdown-dialog" tabindex="-1" role="dialog" aria-describedby="ui-id-1" style="display: none;"><div class="block block-minicart empty ui-dialog-content ui-widget-content" data-role="dropdownDialog" id="ui-id-1" style="display: block;">
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() -->
+<div class="block-title">
+    <strong>
+        <span class="text" data-bind="i18n: 'My Cart'">Cosul meu</span>
+        <span class="qty empty" data-bind="css: { empty: !!getCartParam('summary_count') == false },&#10;                       attr: { title: $t('Items in Cart') }, text: getCartParam('summary_count')" title="produse in cos">0</span>
+    </strong>
+</div>
+
+<div class="block-content">
+    <button type="button" id="btn-minicart-close" class="action close" data-action="close" data-bind="attr: { title: $t('Close') }" title="Close">
+        <span data-bind="i18n: 'Close'">Close</span>
+    </button>
+
+    <!-- ko if: getCartParam('summary_count') --><!-- /ko -->
+
+    <!-- ko if: getCartParam('summary_count') --><!-- /ko -->
+
+    <!-- ko ifnot: getCartParam('summary_count') -->
+        <strong class="subtitle empty" data-bind="visible: closeSidebar(), i18n: 'You have no items in your shopping cart.'">Nu ai adaugat produse in cos</strong>
+        <!-- ko if: getCartParam('cart_empty_message') --><!-- /ko -->
+    <!-- /ko -->
+
+    <!-- ko if: getCartParam('summary_count') --><!-- /ko -->
+
+    <div id="minicart-widgets" class="minicart-widgets">
+        <!-- ko foreach: getRegion('promotion') --><!-- ko template: getTemplate() -->
+<!-- ko foreach: {data: elems, as: 'element'} --><!-- /ko -->
+<!-- /ko --><!-- /ko -->
+    </div>
+</div>
+<!-- ko foreach: getRegion('sign-in-popup') --><!-- /ko -->
+<!-- /ko -->
+            </div>
+                    </div></div></div>
+
+
+					<div class="nav-ozmegamenu-inner">
+						
+
+
+
+			<nav class="nav-container visible-lg visible-md">
+			
+						<div id="pt_custommenu" class="pt_custommenu">
+							<div id="pt_menu_home" class="pt_menu">
+<div class="parentMenu">
+<a href="https://substitute.ro/">
+<span>Home</span>
+</a>
+</div>
+</div>									
+									
+									
+																	
+									
+									
+																	
+									
+									
+																	
+									
+									
+																	
+									
+									
+																	
+									
+									
+																	
+									
+									
+														
+								
+														<div class="pt_menu_link pt_menu">
+<div class="parentMenu">
+<ul class="mobilemenu">
+<li><a href="https://substitute.ro/en-gros">en-gros</a></li>
+<li><a href="https://substitute.ro/adrese-contact">Contact</a></li>
+</ul>
+</div>
+</div>
+						</div>
+					
+				
+		</nav>
+		
+		<script type="text/javascript">
+			require([
+  "jquery",
+  "owlcarousel/minjs"
+ ], function(jQuery,owlCarousel){
+				
+				(function(jQuery){
+						 jQuery.fn.extend({  
+							 mobilemenu: function() {       
+								return this.each(function() {
+									
+									var jQueryul = jQuery(this);
+									
+									if(jQueryul.data('accordiated'))
+										return false;
+																		
+									jQuery.each(jQueryul.find('ul, li&gt;div'), function(){
+										jQuery(this).data('accordiated', true);
+										jQuery(this).hide();
+									});
+									
+									jQuery.each(jQueryul.find('span.head'), function(){
+										jQuery(this).click(function(e){
+											activate(this);
+											return void(0);
+										});
+									});
+									
+									var active = (location.hash)?jQuery(this).find('a[href=' + location.hash + ']')[0]:'';
+
+									if(active){
+										activate(active, 'toggle');
+										jQuery(active).parents().show();
+									}
+									
+									function activate(el,effect){
+										jQuery(el).parent('li').toggleClass('active').siblings().removeClass('active').children('ul, div').slideUp('fast');
+										jQuery(el).siblings('ul, div')[(effect || 'slideToggle')]((!effect)?'fast':null);
+									}
+									
+								});
+							} 
+						}); 
+					})(jQuery);
+
+					jQuery("ul.mobilemenu li.level1, ul.level2 li").each(function(){ 
+						if(jQuery(this).find('li').length &gt; 0) {
+							jQuery(this).addClass('have_sub');
+							jQuery(this).append('&lt;span class="head"&gt;&lt;a href="javascript:void(0)"&gt;&lt;/a&gt;&lt;/span&gt;');
+						}
+					  });			
+					jQuery('ul.mobilemenu').mobilemenu();
+					jQuery("ul.mobilemenu li.active").each(function(){
+						jQuery(this).children().next("ul").css('display', 'block');
+					});
+					
+					//mobile
+					jQuery('.btn-navbar').click(function() {
+						
+						var chk = 0;
+						if ( jQuery('#navbar-inner').hasClass('navbar-inactive') &amp;&amp; ( chk==0 ) ) {
+							jQuery('#navbar-inner').removeClass('navbar-inactive');
+							jQuery('#navbar-inner').addClass('navbar-active');
+							jQuery('#ma-mobilemenu').css('display','block');
+							chk = 1;
+						}
+						if (jQuery('#navbar-inner').hasClass('navbar-active') &amp;&amp; ( chk==0 ) ) {
+							jQuery('#navbar-inner').removeClass('navbar-active');
+							jQuery('#navbar-inner').addClass('navbar-inactive');			
+							jQuery('#ma-mobilemenu').css('display','none');
+							chk = 1;
+						}
+					}); 
+					
+					
+
+					require(["jquery"], function(jQuery){
+
+						jQuery(".pt_menu_link ul li").each(function(){
+							var url = document.URL;
+							jQuery(".pt_menu_link ul li a").removeClass("act");
+							jQuery('.pt_menu_link ul li a[href="'+url+'"]').addClass('act');
+						}); 
+						
+						jQuery('.pt_menu_no_child').hover(function(){
+							jQuery(this).addClass("active");
+						},function(){
+							jQuery(this).removeClass("active");
+						})
+						
+						jQuery('.pt_menu').hover(function(){
+							if(jQuery(this).attr("id") != "pt_menu_link"){
+								jQuery(this).addClass("active");
+							}
+						},function(){
+							jQuery(this).removeClass("active");
+						})
+						
+						jQuery('.pt_menu').hover(function(){
+						   /*show popup to calculate*/
+						   jQuery(this).find('.popup').css('display','inline-block');
+						   
+						   /* get total padding + border + margin of the popup */
+						   var extraWidth       = 0
+						   var wrapWidthPopup   = jQuery(this).find('.popup').outerWidth(true); /*include padding + margin + border*/
+						   var actualWidthPopup = jQuery(this).find('.popup').width(); /*no padding, margin, border*/
+						   extraWidth           = wrapWidthPopup - actualWidthPopup;    
+						   
+						   /* calculate new width of the popup*/
+						   var widthblock1 = jQuery(this).find('.popup .block1').outerWidth(true);
+						   var widthblock2 = jQuery(this).find('.popup .block2').outerWidth(true);
+						   var new_width_popup = 0;
+						   if(widthblock1 &amp;&amp; !widthblock2){
+							   new_width_popup = widthblock1;
+						   }
+						   if(!widthblock1 &amp;&amp; widthblock2){
+							   new_width_popup = widthblock2;
+						   }
+						   if(widthblock1 &amp;&amp; widthblock2){
+								if(widthblock1 &gt;= widthblock2){
+									new_width_popup = widthblock1;
+								}
+								if(widthblock1 &lt; widthblock2){
+									new_width_popup = widthblock2;
+								}
+						   }
+						   var new_outer_width_popup = new_width_popup + extraWidth;
+						   
+						   /*define top and left of the popup*/
+						   var wraper = jQuery('.pt_custommenu');
+						   var wWraper = wraper.outerWidth();
+						   var posWraper = wraper.offset();
+						   var pos = jQuery(this).offset();
+						   
+						   var xTop = pos.top - posWraper.top + CUSTOMMENU_POPUP_TOP_OFFSET;
+						   var xLeft = pos.left - posWraper.left;
+						   if ((xLeft + new_outer_width_popup) &gt; wWraper) xLeft = wWraper - new_outer_width_popup;
+
+						   jQuery(this).find('.popup').css('top',xTop);
+						   jQuery(this).find('.popup').css('left',xLeft);
+						   
+						   /*set new width popup*/
+						   jQuery(this).find('.popup').css('width',new_width_popup);
+						   jQuery(this).find('.popup .block1').css('width',new_width_popup);
+						   
+						   /*return popup display none*/
+						   jQuery(this).find('.popup').css('display','none');
+						   
+						   /*show hide popup*/
+						   if(CUSTOMMENU_POPUP_EFFECT == 0) jQuery(this).find('.popup').stop(true,true).slideDown('slow');
+						   if(CUSTOMMENU_POPUP_EFFECT == 1) jQuery(this).find('.popup').stop(true,true).fadeIn('slow');
+						   if(CUSTOMMENU_POPUP_EFFECT == 2) jQuery(this).find('.popup').stop(true,true).show();
+						},function(){
+						   if(CUSTOMMENU_POPUP_EFFECT == 0) jQuery(this).find('.popup').stop(true,true).slideUp();
+						   if(CUSTOMMENU_POPUP_EFFECT == 1) jQuery(this).find('.popup').stop(true,true).fadeOut('slow');
+						   if(CUSTOMMENU_POPUP_EFFECT == 2) jQuery(this).find('.popup').stop(true,true).hide('fast');
+						})
+
+					});
+
+					
+					
+				});
+		</script>
+
+		<script type="text/javascript">
+		//&lt;![CDATA[
+			var CUSTOMMENU_POPUP_EFFECT = 0;
+			var CUSTOMMENU_POPUP_TOP_OFFSET = 50;
+		//]]&gt;
+		</script>
+
+
+						<div class="mobile-bar-icon"><span>mobile icon</span></div>
+					</div>
+				</div>					
+			</div>
+		</div>
+		
+		<div class="mobile-bar-content">
+			<div class="mobile-bar-close">Close</div>
+			<ul class="tabs-mobile">
+				<li class="item item-menu active">Menu</li>
+				
+				<li class="item item-setting">Setting</li>
+			</ul>
+			<div class="tabs-content-mobile tabs-menu">
+				
+
+
+		<nav class="ma-nav-mobile-container">
+			<ul id="ma-mobilemenu" class="mobilemenu">
+				<li class="level1 have_sub"><a href="https://substitute.ro/baza-e-potion.html"><span class="name">Baza e-Potion </span></a><ul class="level2" style="display: none;"><li><a href="https://substitute.ro/baza-e-potion/baza-optim.html"><span class="name">Baza Optim </span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/baza-e-potion/baza-full-vg.html"><span class="name">Baza Full VG</span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/baza-e-potion/baza-full-pg.html"><span class="name">Baza Full PG</span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/baza-e-potion/baza-500-ml.html"><span class="name">Baza 500 ml </span></a><ul class="level3" style="display: none;"></ul></li></ul><span class="head"><a href="javascript:void(0)"></a></span></li><li class="level1"><a href="https://substitute.ro/nicotina.html"><span class="name">Nicotina </span></a><ul class="level2" style="display: none;"></ul></li><li class="level1 have_sub"><a href="https://substitute.ro/lichide.html"><span class="name">Lichide</span></a><ul class="level2" style="display: none;"><li><a href="https://substitute.ro/lichide/vapebar-quit.html"><span class="name">Vapebar Quit </span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/lichide/flavor-madness-lichid.html"><span class="name">Flavor Madness Lichid</span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/lichide/e-potion-black-edition-lichid.html"><span class="name">e-Potion Black edition Lichid </span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/lichide/the-juice.html"><span class="name">The juice </span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/lichide/custom-recipe-by-e-potion.html"><span class="name">Custom Recipe by e-Potion </span></a><ul class="level3" style="display: none;"></ul></li></ul><span class="head"><a href="javascript:void(0)"></a></span></li><li class="level1 have_sub"><a href="https://substitute.ro/arome.html"><span class="name">Arome </span></a><ul class="level2" style="display: none;"><li><a href="https://substitute.ro/arome/perfumers-apprentice.html"><span class="name">Perfumers Apprentice</span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/arome/flavor-madness-aroma.html"><span class="name">Flavor Madness Aroma</span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/arome/flavor-west.html"><span class="name">Flavor West </span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/arome/se7en.html"><span class="name">Se7en</span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/arome/vapebar-clasic.html"><span class="name">VAPEBAR CLASIC</span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/arome/e-potion-black-edition-aroma.html"><span class="name">e-Potion Black edition Aroma</span></a><ul class="level3" style="display: none;"></ul></li><li><a href="https://substitute.ro/arome/capella.html"><span class="name">Capella </span></a><ul class="level3" style="display: none;"></ul></li></ul><span class="head"><a href="javascript:void(0)"></a></span></li><li class="level1"><a href="https://substitute.ro/rezistente.html"><span class="name">Rezistente</span></a><ul class="level2" style="display: none;"></ul></li><li class="level1"><a href="https://substitute.ro/acumulatori-si-incarcatoare.html"><span class="name">Acumulatori si incarcatoare </span></a><ul class="level2" style="display: none;"></ul></li><li class="level1"><a href="https://substitute.ro/flacoane-de-plastic.html"><span class="name">Flacoane de plastic </span></a><ul class="level2" style="display: none;"></ul></li>			</ul>
+		</nav>
+
+			</div>
+			<div class="tabs-content-mobile tabs-setting" style="display:none;">
+				<ul class="header links"><li><a href="https://substitute.ro/customer/account/">Contul meu</a></li><li class="authorization-link" data-label="or">
+    <a href="https://substitute.ro/customer/account/logout/" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/customer\/account\/logout\/&quot;,&quot;data&quot;:{&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}">
+        Sign Out    </a>
+</li>
+</ul>				
+							</div>
+		</div>
+</header>
+<script type="text/javascript">
+require(["jquery"], function($){
+	$(document).ready(function(){
+		&lt;!-- show, hide mobile bar content --&gt;
+		$(".mobile-bar-icon").click(function(){
+			$(".mobile-bar-content").addClass("open");
+		});
+		$(".mobile-bar-close").click(function(){
+			$(".mobile-bar-content").removeClass("open");
+		});
+		
+		&lt;!-- choose tabs--&gt;
+		$(".tabs-mobile .item-menu").addClass("active");
+		$(".tabs-mobile .item").click(function(){
+			$(".tabs-mobile .item").removeClass("active");
+			$(this).addClass("active");
+		});
+		$(".tabs-mobile .item-menu").click(function(){
+			$(".tabs-content-mobile").css("display","none");
+			$(".tabs-menu").css("display","block");
+		});
+		$(".tabs-mobile .item-account").click(function(){
+			$(".tabs-content-mobile").css("display","none");
+			$(".tabs-account").css("display","block");
+		});
+		$(".tabs-mobile .item-setting").click(function(){
+			$(".tabs-content-mobile").css("display","none");
+			$(".tabs-setting").css("display","block");
+		});
+		
+	});
+
+	$(window).scroll(function () {
+	   if ($(this).scrollTop() &gt; 188) {
+		 $('.nav-ozmegamenu').addClass("fix-nav-ozmegamenu");
+	   } else {
+		$('.nav-ozmegamenu').removeClass("fix-nav-ozmegamenu");
+	   }
+	});	
+});
+</script>
+
+
+
+<div class="breadcrumbs">
+	<div class="container-inner">
+		<ul class="items">
+							<li class="item home">
+									<a href="https://substitute.ro/" title="Go to Home Page">
+						Home					</a>
+								</li>
+							<li class="item search">
+									<strong>Search results for: 'aroma'</strong>
+								</li>
+					</ul>
+	</div>
+</div>
+<main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page-title-wrapper">
+    <h1 class="page-title">
+        <span class="base" data-ui-id="page-title-wrapper">Search results for: 'aroma'</span>    </h1>
+    </div>
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 --><!-- /ko -->
+    <!-- ko if: messages().messages && messages().messages.length > 0 --><!-- /ko -->
+</div>
+
+</div><div class="columns"><div class="column main"><input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" /><div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
+    <script>
+        window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"https:\/\/substitute.ro\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/substitute.ro\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/substitute.ro\/"};
+    </script>
+    <!-- ko template: getTemplate() -->
+
+
+<!-- /ko -->
+    
+</div>
+
+
+
+
+<div class="search results">
+                <div class="toolbar toolbar-products">
+                    <div class="modes">
+            <strong class="modes-label" id="modes-label">View as</strong>
+                        <strong title="Tabel" class="modes-mode active mode-grid" data-value="grid">
+                <span>Tabel</span>
+            </strong>
+                                    <a class="modes-mode mode-list" title="Lista" href="#" data-role="mode-switcher" data-value="list" id="mode-list" aria-labelledby="modes-label mode-list">
+                <span>Lista</span>
+            </a>
+                        </div>
+        
+        <p class="toolbar-amount" id="toolbar-amount">
+            Produsele <span class="toolbar-number">1</span>-<span class="toolbar-number">15</span> din <span class="toolbar-number">246</span>    </p>
+
+        
+    
+        
+                <div class="pages">
+            <strong class="label pages-label" id="paging-label">Page</strong>
+            <ul class="items pages-items" aria-labelledby="paging-label">
+            
+            
+            
+                                                <li class="item current">
+                        <strong class="page">
+                            <span class="label">You're currently reading page</span>
+                            <span>1</span>
+                        </strong>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://substitute.ro/catalogsearch/result/index/?p=2&amp;q=aroma" class="page">
+                            <span class="label">Page</span>
+                            <span>2</span>
+                        </a>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://substitute.ro/catalogsearch/result/index/?p=3&amp;q=aroma" class="page">
+                            <span class="label">Page</span>
+                            <span>3</span>
+                        </a>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://substitute.ro/catalogsearch/result/index/?p=4&amp;q=aroma" class="page">
+                            <span class="label">Page</span>
+                            <span>4</span>
+                        </a>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://substitute.ro/catalogsearch/result/index/?p=5&amp;q=aroma" class="page">
+                            <span class="label">Page</span>
+                            <span>5</span>
+                        </a>
+                    </li>
+                            
+            
+            
+                            <li class="item pages-item-next">
+                                        <a class="action  next" href="https://substitute.ro/catalogsearch/result/index/?p=2&amp;q=aroma" title="Continuare">
+                        <span class="label">Page</span>
+                        <span>Continuare</span>
+                    </a>
+                </li>
+                        </ul>
+        </div>
+        
+    
+    
+
+        <div class="field limiter">
+    <label class="label" for="limiter">
+        <span>Afiseaza</span>
+    </label>
+    <div class="control">
+        <select id="limiter" data-role="limiter" class="limiter-options">
+                            <option value="9">
+                    9                </option>
+                            <option value="15" selected="selected">
+                    15                </option>
+                            <option value="30">
+                    30                </option>
+                    </select>
+    </div>
+    <span class="limiter-text">pe pagina</span>
+</div>
+
+                    <div class="toolbar-sorter sorter">
+    <label class="sorter-label" for="sorter">Sortare</label>
+    <select id="sorter" data-role="sorter" class="sorter-options">
+                    <option value="name">
+                Nume produs            </option>
+                    <option value="price">
+                Pret            </option>
+                    <option value="relevance" selected="selected">
+                Relevance            </option>
+            </select>
+            <a title="Sortare ascendenta" href="#" class="action sorter-action sort-desc" data-role="direction-switcher" data-value="asc">
+            <span>Sortare ascendenta</span>
+        </a>
+    </div>
+            </div>
+            <div class="products wrapper grid products-grid">
+                <ol class="products list items product-items">
+                                        <li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-dulce-de-leche-tfa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/6/9/6906_1_.jpg" width="500" height="500" alt="Aroma Dulce De Leche TFA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-dulce-de-leche-tfa.html">
+                                Aroma Dulce De Leche TFA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="116">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/116/" method="post">
+											<input type="hidden" name="product" value="116" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0LzExNi8," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;116&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-dx-brown-sugar-fa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/b/r/brown-sugar-flavour-concentrate_1_.jpg" width="500" height="500" alt="Aroma DX Brown Sugar FA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-dx-brown-sugar-fa.html">
+                                Aroma DX Brown Sugar FA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="115">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/115/" method="post">
+											<input type="hidden" name="product" value="115" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0LzExNS8," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;115&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-dx-caramel-original-tfa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/7/7/7715_1_.jpg" width="500" height="500" alt="Aroma DX Caramel original TFA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-dx-caramel-original-tfa.html">
+                                Aroma DX Caramel original TFA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="114">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/114/" method="post">
+											<input type="hidden" name="product" value="114" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0LzExNC8," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;114&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-chocolate-coconut-almond-fa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/2/0/2005-fullsize-perfumers-apprentice-electronic-cigarette-liquid-diy-flavor-concentrate-coconut-chocolate-almond-1-1200-500x500_1_.png" width="500" height="500" alt="Aroma Chocolate Coconut Almond FA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-chocolate-coconut-almond-fa.html">
+                                Aroma Chocolate Coconut Almond FA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="113">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																														<div class="stock unavailable"><span>Out of stock</span></div>
+																											</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;113&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-caramel-candy-fa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/6/6/6698.jpg" width="500" height="500" alt="Aroma Caramel Candy FA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-caramel-candy-fa.html">
+                                Aroma Caramel Candy FA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="112">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																														<div class="stock unavailable"><span>Out of stock</span></div>
+																											</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;112&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-dx-marshmallow-fa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/t/p/tpamarshmallow-500x500_1_.png" width="500" height="500" alt="Aroma DX Marshmallow FA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-dx-marshmallow-fa.html">
+                                Aroma DX Marshmallow FA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="105">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/105/" method="post">
+											<input type="hidden" name="product" value="105" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0LzEwNS8," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;105&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-dx-sweet-cream-fa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/i/m/images-2_1_.jpeg" width="500" height="500" alt="Aroma DX Sweet Cream FA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-dx-sweet-cream-fa.html">
+                                Aroma DX Sweet Cream FA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="104">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/104/" method="post">
+											<input type="hidden" name="product" value="104" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0LzEwNC8," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;104&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-ry4-double-tfa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/t/p/tpa-ry4-double_1_.jpg" width="500" height="500" alt="Aroma RY4 Double TFA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-ry4-double-tfa.html">
+                                Aroma RY4 Double TFA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="100">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/100/" method="post">
+											<input type="hidden" name="product" value="100" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0LzEwMC8," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;100&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-pecan-fa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/a/r/arome-noix-pecan-perfumer-s-apprentice-500x500_1_.jpg" width="500" height="500" alt="Aroma Pecan FA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-pecan-fa.html">
+                                Aroma Pecan FA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="99">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/99/" method="post">
+											<input type="hidden" name="product" value="99" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0Lzk5Lw,," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;99&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-malted-milk-fa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/d/a/dairy-milk_1_.jpg" width="500" height="500" alt="Aroma Malted Milk FA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-malted-milk-fa.html">
+                                Aroma Malted Milk FA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="98">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/98/" method="post">
+											<input type="hidden" name="product" value="98" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0Lzk4Lw,," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;98&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-honey-fa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/7/6/7656_1_.jpg" width="500" height="500" alt="Aroma Honey FA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-honey-fa.html">
+                                Aroma Honey FA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="97">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/97/" method="post">
+											<input type="hidden" name="product" value="97" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0Lzk3Lw,," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;97&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-french-vanilla-creme-tfa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/7/7/7746_1_.jpg" width="500" height="500" alt="Aroma French Vanilla Creme TFA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-french-vanilla-creme-tfa.html">
+                                Aroma French Vanilla Creme TFA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="93">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/93/" method="post">
+											<input type="hidden" name="product" value="93" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0LzkzLw,," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;93&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-dx-vanilla-cupecake-tfa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/7/d/7df6b42df2ba18e1a051269a7e8aac20b6b9b84e.png_1_.jpeg" width="500" height="500" alt="Aroma DX Vanilla Cupecake TFA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-dx-vanilla-cupecake-tfa.html">
+                                Aroma DX Vanilla Cupecake TFA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="91">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/91/" method="post">
+											<input type="hidden" name="product" value="91" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0LzkxLw,," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;91&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-hendner.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/h/e/hend-500x500.jpg" width="500" height="500" alt="Aroma Hendner" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-hendner.html">
+                                Aroma Hendner                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="37">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="17" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">17,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/37/" method="post">
+											<input type="hidden" name="product" value="37" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0LzM3Lw,," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;37&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                                            </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+					<div class=" product-item-images">
+																		<a href="https://substitute.ro/aroma-cola-soda-tfa.html" class="product photo product-item-photo" tabindex="-1">
+							
+<span class="product-image-container" style="width:500px;">
+    <span class="product-image-wrapper" style="padding-bottom: 100%;">
+        <img class="product-image-photo" src="https://substitute.ro/pub/media/catalog/product/cache/b2c9222954ccc348538ca5801698d4c1/d/r/dr-pops-flavour-concentrate-500x500-500x500_1_.jpg" width="500" height="500" alt="Aroma Cola Soda TFA" /></span>
+</span>
+						</a>
+					</div>
+                    <div class="product-item-details">
+                                                <strong class="product name product-item-name">
+                            <a class="product-item-link" href="https://substitute.ro/aroma-cola-soda-tfa.html">
+                                Aroma Cola Soda TFA                            </a>
+                        </strong>
+                                               <div class="price-box price-final_price" data-role="priceBox" data-product-id="118">
+    
+
+<span class="price-container price-final_price tax weee">
+        <span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper ">
+        <span class="price">15,00 lei </span>    </span>
+        </span>
+
+</div>                        
+						
+						 					
+						<div class="product-item-actions">
+							
+							<div data-role="add-to-links" class="add-to-links-secondary">
+																
+								<div class="add-to-cart-primary">
+																													<form data-role="tocart-form" action="https://substitute.ro/checkout/cart/add/uenc/aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ%2C%2C/product/118/" method="post">
+											<input type="hidden" name="product" value="118" />
+											<input type="hidden" name="uenc" value="aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNITTZMeTl6ZFdKemRHbDBkWFJsTG5KdkwyTmhkR0ZzYjJkelpXRnlZMmd2Y21WemRXeDBMMmx1WkdWNEx6OXdQVEVtY1QxaGNtOXRZUSUyQyUyQy9wcm9kdWN0LzExOC8," />
+											<input name="form_key" type="hidden" value="ITATCsJO8AgYww5B" />											<button type="submit" title="Cumpara" class="tocart">
+												<span>Cumpara</span>
+											</button>
+										</form>
+																	</div>
+								
+																<a href="#" class="action compare" title="Compara cu alt produs" aria-label="Compara cu alt produs" data-post="{&quot;action&quot;:&quot;https:\/\/substitute.ro\/catalog\/product_compare\/add\/&quot;,&quot;data&quot;:{&quot;product&quot;:&quot;118&quot;,&quot;uenc&quot;:&quot;aHR0cHM6Ly9zdWJzdGl0dXRlLnJvL2NhdGFsb2dzZWFyY2gvcmVzdWx0L2luZGV4Lz9wPTEmcT1hcm9tYQ,,&quot;}}" role="button">
+									<span>Compara cu alt produs</span>
+								</a>
+							</div>
+						</div>
+                    </div>
+                </div>
+                </li>                    </ol>
+    </div>
+        <div class="toolbar toolbar-products">
+                    <div class="modes">
+            <strong class="modes-label" id="modes-label">View as</strong>
+                        <strong title="Tabel" class="modes-mode active mode-grid" data-value="grid">
+                <span>Tabel</span>
+            </strong>
+                                    <a class="modes-mode mode-list" title="Lista" href="#" data-role="mode-switcher" data-value="list" id="mode-list" aria-labelledby="modes-label mode-list">
+                <span>Lista</span>
+            </a>
+                        </div>
+        
+        <p class="toolbar-amount" id="toolbar-amount">
+            Produsele <span class="toolbar-number">1</span>-<span class="toolbar-number">15</span> din <span class="toolbar-number">246</span>    </p>
+
+        
+    
+        
+                <div class="pages">
+            <strong class="label pages-label" id="paging-label">Page</strong>
+            <ul class="items pages-items" aria-labelledby="paging-label">
+            
+            
+            
+                                                <li class="item current">
+                        <strong class="page">
+                            <span class="label">You're currently reading page</span>
+                            <span>1</span>
+                        </strong>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://substitute.ro/catalogsearch/result/index/?p=2&amp;q=aroma" class="page">
+                            <span class="label">Page</span>
+                            <span>2</span>
+                        </a>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://substitute.ro/catalogsearch/result/index/?p=3&amp;q=aroma" class="page">
+                            <span class="label">Page</span>
+                            <span>3</span>
+                        </a>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://substitute.ro/catalogsearch/result/index/?p=4&amp;q=aroma" class="page">
+                            <span class="label">Page</span>
+                            <span>4</span>
+                        </a>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://substitute.ro/catalogsearch/result/index/?p=5&amp;q=aroma" class="page">
+                            <span class="label">Page</span>
+                            <span>5</span>
+                        </a>
+                    </li>
+                            
+            
+            
+                            <li class="item pages-item-next">
+                                        <a class="action  next" href="https://substitute.ro/catalogsearch/result/index/?p=2&amp;q=aroma" title="Continuare">
+                        <span class="label">Page</span>
+                        <span>Continuare</span>
+                    </a>
+                </li>
+                        </ul>
+        </div>
+        
+    
+    
+
+        <div class="field limiter">
+    <label class="label" for="limiter">
+        <span>Afiseaza</span>
+    </label>
+    <div class="control">
+        <select id="limiter" data-role="limiter" class="limiter-options">
+                            <option value="9">
+                    9                </option>
+                            <option value="15" selected="selected">
+                    15                </option>
+                            <option value="30">
+                    30                </option>
+                    </select>
+    </div>
+    <span class="limiter-text">pe pagina</span>
+</div>
+
+                    <div class="toolbar-sorter sorter">
+    <label class="sorter-label" for="sorter">Sortare</label>
+    <select id="sorter" data-role="sorter" class="sorter-options">
+                    <option value="name">
+                Nume produs            </option>
+                    <option value="price">
+                Pret            </option>
+                    <option value="relevance" selected="selected">
+                Relevance            </option>
+            </select>
+            <a title="Sortare ascendenta" href="#" class="action sorter-action sort-desc" data-role="direction-switcher" data-value="asc">
+            <span>Sortare ascendenta</span>
+        </a>
+    </div>
+            </div>
+            
+    </div>
+</div><div class="sidebar sidebar-main">
+    <div class="block filter" id="layered-filter-block" data-collapsible="true">
+                <div class="block-title filter-title" data-count="0" role="tablist">
+            <strong data-role="title" role="tab" aria-selected="false" aria-expanded="false" tabindex="0">Shop By</strong>
+        </div>
+        <div class="block-content filter-content">
+            
+                                                                                                <strong role="heading" aria-level="2" class="block-subtitle filter-subtitle">Shopping Options</strong>
+                        <div class="filter-options" id="narrow-by-list" data-role="content" role="tablist">
+                                        <div data-role="collapsible" class="filter-options-item" role="presentation" data-collapsible="true">
+                        <div data-role="title" class="filter-options-title" role="tab" aria-selected="false" aria-expanded="false" tabindex="0">Categorii</div>
+                        <div data-role="content" class="filter-options-content" role="tabpanel" aria-hidden="true" style="display: none;">
+<ol class="items">
+            <li class="item">
+                            <a href="https://substitute.ro/catalogsearch/result/index/?cat=22&amp;q=aroma">
+                    Arome                                             <span class="count">211<span class="filter-count-label">
+                             items</span></span>
+                                    </a>
+                    </li>
+            <li class="item">
+                            <a href="https://substitute.ro/catalogsearch/result/index/?cat=26&amp;q=aroma">
+                    Lichide                                            <span class="count">32<span class="filter-count-label">
+                             items</span></span>
+                                    </a>
+                    </li>
+    </ol>
+</div>
+                    </div>
+                                                        </div>
+                    </div>
+    </div>
+</div></div></main><footer class="page-footer"><div class="footer-container">
+	<div class="footer-top">
+		<div class="container-inner">
+			<div class="footer-logo text-center">
+					<p><img title="e-Potion" src="https://substitute.ro/pub/media/logo/stores/1/logo-epotion-w.png" alt="e-Potion" width="114" height="50" /></p>			</div>
+			<div class="container-size">
+								<div class="row">
+					<div class="col-sm-3">
+<h3>Atentie! </h3>
+<p><span>Trebuie sa aveti peste 18 ani pentru a putea utiliza produsele noastre</span>. <span>A nu se lasa la indemana copiilor. Nicotina inghitita poate fi otravitoare. Daca este inghitita consultati de urgenta un medic</span>.</p>
+<ul class="add">
+<li><i class="fa fa-home"></i>Sibiu, Nicolae Balcescu, Nr 22</li>
+<li><i class="fa fa-phone"></i>+40767116427</li>
+<li><i class="fa fa-envelope-square"></i>office@substitute.ro</li>
+</ul>
+</div>
+<div class="col-sm-3">
+<h3>Legaturi utile</h3>
+<ul class="links">
+<li class="first"><a href="http://substitute.ro/termene-conditii">Termene si conditii</a></li>
+<li><a href="http://substitute.ro/plata-livrarea">Plata si livrarea produselor</a></li>
+<li><a href="http://substitute.ro/retur-produse">Conditii de returnare a produselor</a></li>
+<li><a href="http://www.anpc.gov.ro/">ANPC</a></li>
+<li class="last"><a href="http://substitute.ro/cookies">Politica de utilizare a Cookie-urilor</a></li>
+</ul>
+</div>
+<div class="col-sm-3">
+<h3>Customer service</h3>
+<ul class="links">
+<li class="first"><a href="http://substitute.ro/sales/order/history/">Istoric comenzi</a></li>
+<li><a href="http://substitute.ro/wishlist/">Produse adaugate in wishlist</a></li>
+<li><a href="http://substitute.ro/checkout/cart/">Cosul de cumparaturi</a></li>
+<li><a href="http://substitute.ro/customer/account/">Contul meu</a></li>
+<li class="last"><a href="https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&amp;lng=RO">Solutionare litigii</a></li>
+</ul>
+</div>
+<div class="col-sm-3"><div class="ma-newsletter">
+	<h3><span>Newsletter </span></h3>
+	<p>Abonare la Newsletter:</p>		
+	<form class="form subscribe" novalidate="novalidate" action="https://substitute.ro/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+
+		<div class="control">
+			<input name="email" type="email" id="newsletter" placeholder="Introdu adresa de email" data-validate="{required:true, 'validate-email':true}" />
+						
+			<button class="action subscribe primary" title="Abonare" type="submit">
+			<span>Abonare</span>
+			</button>			
+		</div>
+
+	</form>
+</div>
+
+<h3>Social Media</h3>
+<ul class="link-follow">
+<li class="first"><a class="istagram fa fa-instagram" title="Instagram" href="https://www.instagram.com/substitute_sibiu/"><span>instagram</span></a></li>
+<li><a class="facebook fa fa-facebook" title="Facebook" href="https://www.facebook.com/substitutesibiu"><span>facebook</span></a></li>
+<li><a class="twitter fa fa-twitter" href="http://twitter.com/ePotionSibiu"><span>Twitter</span></a></li>
+</ul>
+</div>				</div>
+			</div>
+			<div class="footer-payment text-center">
+								</div>
+		</div>
+	</div>
+	<div class="footer-bottom">
+		<div class="container-inner">
+			<div class="container-size">
+				<div class="row">
+					<div class="col-sm-6">
+						<small class="copyright">
+    <span>Copyright © 2014-2017 S.C. Substitute S.R.L.</span>
+</small>
+					</div>
+					<div class="col-sm-6 text-right">
+											</div>
+									</div>
+			</div>
+		</div>
+		<div id="back_top">
+			<a href="#back-top"><span>&gt;top</span></a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+			
+	require(["jquery"], function($){
+
+	   $(window).scroll(function() {
+			if($(this).scrollTop() &gt; 300) {
+				$('#back_top').fadeIn();   
+			} else {
+				$('#back_top').fadeOut();
+			}
+		});
+		   $('#back_top').click(function() {
+			$('body,html').animate({scrollTop:0},500);
+		}); 
+	   
+	});
+</script></footer>
+</div>    
+
+<div class="modals-wrapper"><!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+
+<aside role="dialog" class="modal-popup popup-authentication&#10;               modal-slide&#10;               _inner-scroll" aria-describedby="modal-content-27" data-role="modal" data-type="popup" tabindex="0">
+    <div data-role="focusable-start" tabindex="0"></div>
+    <div class="modal-inner-wrap" data-role="focusable-scope">
+        <header class="modal-header">
+            
+            <button class="action-close" data-role="closeBtn" type="button">
+                <span>Close</span>
+            </button>
+        </header>
+        <div id="modal-content-27" class="modal-content" data-role="content"><div class="block-authentication" data-bind="afterRender: setModalElement, blockLoader: isLoading" style="">
+    <div class="block block-new-customer" data-bind="attr: {'data-label': $t('or')}" data-label="or">
+        <div class="block-title">
+            <strong id="block-new-customer-heading" role="heading" aria-level="2" data-bind="i18n: 'Checkout as a new customer'">Checkout as a new customer</strong>
+        </div>
+        <div class="block-content" aria-labelledby="block-new-customer-heading">
+            <p data-bind="i18n: 'Creating an account has many benefits:'">Creating an account has many benefits:</p>
+            <ul>
+                <li data-bind="i18n: 'See order and shipping status'">See order and shipping status</li>
+                <li data-bind="i18n: 'Track order history'">Track order history</li>
+                <li data-bind="i18n: 'Check out faster'">Check out faster</li>
+            </ul>
+            <div class="actions-toolbar">
+                <div class="primary">
+                    <a class="action action-register primary" data-bind="attr: {href: registerUrl}" href="https://substitute.ro/customer/account/create/">
+                        <span data-bind="i18n: 'Create an Account'">Creeaza Cont</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="block block-customer-login" data-bind="attr: {'data-label': $t('or')}" data-label="or">
+        <div class="block-title">
+            <strong id="block-customer-login-heading" role="heading" aria-level="2" data-bind="i18n: 'Checkout using your account'">Checkout using your account</strong>
+        </div>
+        <!-- ko foreach: getRegion('messages') -->
+        <!-- ko template: getTemplate() -->
+<div data-role="checkout-messages" class="messages" data-bind="visible: isVisible(), click: removeAll">
+    <!-- ko foreach: messageContainer.getErrorMessages() --><!--/ko-->
+    <!-- ko foreach: messageContainer.getSuccessMessages() --><!--/ko-->
+</div>
+<!-- /ko -->
+        <!--/ko-->
+        <!-- ko foreach: getRegion('before') --><!-- /ko -->
+        <div class="block-content" aria-labelledby="block-customer-login-heading">
+            <form class="form form-login" method="post" data-bind="event: {submit: login }" id="login-form">
+                <div class="fieldset login" data-bind="attr: {'data-hasrequired': $t('* Required Fields')}" data-hasrequired="* Required Fields">
+                    <div class="field email required">
+                        <label class="label" for="email"><span data-bind="i18n: 'Email Address'">Adresa de email</span></label>
+                        <div class="control">
+                            <input name="username" id="email" type="email" class="input-text" data-bind="attr: {autocomplete: autocomplete}" data-validate="{required:true, 'validate-email':true}" autocomplete="off" />
+                        </div>
+                    </div>
+                    <div class="field password required">
+                        <label for="pass" class="label"><span data-bind="i18n: 'Password'">Parola</span></label>
+                        <div class="control">
+                            <input name="password" type="password" class="input-text" id="pass" data-bind="attr: {autocomplete: autocomplete}" data-validate="{required:true}" autocomplete="off" />
+                        </div>
+                    </div>
+                    <!-- ko foreach: getRegion('additional-login-form-fields') -->
+                    <!-- ko template: getTemplate() -->
+<!-- ko if: (isRequired() && getIsVisible())--><!-- /ko -->
+<!-- /ko -->
+                    <!-- /ko -->
+                    <div class="actions-toolbar">
+                        <input name="context" type="hidden" value="checkout" />
+                        <div class="primary">
+                            <button type="submit" class="action action-login secondary" name="send" id="send2">
+                                <span data-bind="i18n: 'Sign In'">Logare</span>
+                            </button>
+                        </div>
+                        <div class="secondary">
+                            <a class="action" data-bind="attr: {href: forgotPasswordUrl}" href="https://substitute.ro/customer/account/forgotpassword/">
+                                <span data-bind="i18n: 'Forgot Your Password?'">Ai uitat parola?</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div></div>
+        
+    </div>
+    <div data-role="focusable-end" tabindex="0"></div>
+</aside></div></body></html>

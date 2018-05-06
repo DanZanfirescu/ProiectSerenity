@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.dan.features.search.VerticalMenuTest" skipped="0" tests="1" time="11.36" timestamp="2018-03-27T11:57:02.987552100+03:00[Europe/Athens]"><testcase classname="com.dan.features.search.VerticalMenuTest" name="Vertical menu button name"><failure type="java.lang.AssertionError"/><system-err>null&#13;
+com.dan.steps.serenity.VerticalMenu.verticalMenuButtonName(VerticalMenu.java:30)&#13;
+com.dan.features.search.VerticalMenuTest.verticalMenuButtonName(VerticalMenuTest.java:37)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+</system-err></testcase></testsuite>

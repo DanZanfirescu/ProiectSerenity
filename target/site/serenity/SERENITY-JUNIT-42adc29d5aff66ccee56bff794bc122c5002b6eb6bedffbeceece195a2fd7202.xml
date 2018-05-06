@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.dan.features.search.VerticalMenuTest" skipped="0" tests="1" time="0.0" timestamp="2018-03-27T15:42:58.832311400+03:00[Europe/Athens]"><testcase classname="com.dan.features.search.VerticalMenuTest" name="Initialisation"><failure message="The page object class com.dan.pages.HomePage looks dodgy:&#10;Failed to instantiate page (java.lang.NullPointerException)" type="net.thucydides.core.pages.WrongPageError">The page object class com.dan.pages.HomePage looks dodgy:
+Failed to instantiate page (java.lang.NullPointerException)</failure><system-err>The page object class com.dan.pages.HomePage looks dodgy:
+Failed to instantiate page (java.lang.NullPointerException)&#13;
+</system-err></testcase></testsuite>
